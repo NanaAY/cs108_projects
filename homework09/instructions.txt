@@ -1,0 +1,8 @@
+ penup
+pendown
+goto 50 50
+ color green
+goto 0 50
+    point 20
+
+# This is a comment
